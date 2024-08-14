@@ -11,13 +11,14 @@ export default function Skills() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
           <SkillCard title="HTML"></SkillCard>
           <SkillCard title="CSS"></SkillCard>
+          <SkillCard title="SASS"></SkillCard>
           <SkillCard title="JavaScript"></SkillCard>
+          <SkillCard title="Typescript"></SkillCard>
           <SkillCard title="React.js"></SkillCard>
           <SkillCard title="Next.js"></SkillCard>
           <SkillCard title="Tailwind CSS"></SkillCard>
           <SkillCard title="Daisy UI"></SkillCard>
           <SkillCard title="Bootstrap"></SkillCard>
-          <SkillCard title="Wordpress"></SkillCard>
           <SkillCard title="Express.js"></SkillCard>
           <SkillCard title="Node.js"></SkillCard>
           <SkillCard title="MongoDB"></SkillCard>
